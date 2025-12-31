@@ -49,27 +49,28 @@ A comprehensive retail performance dashboard tracking Coca-Cola's US sales opera
 
 Coca-Cola (+354% YoY):
 Allocate 40% of the marketing budget to the flagship brand
-Develop premium SKUs (+15+15 price premium potential)
+Develop premium SKUs (+15 price premium potential)
+
 Dasani Water (+308% YoY):
 Expand the eco-friendly packaging line
-Target health-conscious demographics (2020 untapped market)
+Target health-conscious demographics (20 untapped market)
 
 ### 2. Regional Resource Allocation
 
 Key Insight: South/Southeast = 58% of total sales
 
 Immediate Actions:
-Deploy +25+25 inventory to Southeast region
+Deploy +25 inventory to the Southeast region
 Open 3 new distribution centers in Texas/Florida
-Reallocate 1515 of West region budget to South
+Reallocate 15% of the West region budget to the South
 
 ### 3. Retail Partnership Strategy
 
 Top Performers:
 
-Retailer	2023 Sales	Growth
-BevCo	$2.3M	+399%
-Amazon	$1.0M	+265%
+Retailer	2023 Sales	      Growth
+BevCo	        $2.3M	      +399%
+Amazon	     $1.0M	      +265%
 
 Negotiate exclusivity deals with BevCo (+8+8 margin potential)
 Co-develop Amazon Prime Day bundles (Projected +$1.2M revenue)
