@@ -43,9 +43,9 @@ A comprehensive retail performance dashboard tracking Coca-Cola's US sales opera
   - BevCo: \[+1,860,819\] growth
   - Walmart: \[+240,299\] growth
 
-##Recommendation: 
+## Recommendation: 
 
-###1. Priority Action: Capitalize on high-growth brands
+### 1. Priority Action: Capitalize on high-growth brands
 
 Coca-Cola (+354% YoY):
 Allocate 40% of the marketing budget to the flagship brand
@@ -54,7 +54,7 @@ Dasani Water (+308% YoY):
 Expand the eco-friendly packaging line
 Target health-conscious demographics (2020 untapped market)
 
-###2. Regional Resource Allocation
+### 2. Regional Resource Allocation
 
 Key Insight: South/Southeast = 58% of total sales
 
@@ -63,7 +63,7 @@ Deploy +25+25 inventory to Southeast region
 Open 3 new distribution centers in Texas/Florida
 Reallocate 1515 of West region budget to South
 
-###3. Retail Partnership Strategy
+### 3. Retail Partnership Strategy
 
 Top Performers:
 
